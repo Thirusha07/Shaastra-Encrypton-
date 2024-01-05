@@ -19,7 +19,7 @@ Libraries used:
      pandas
 
 
-For further information u can refer presentation link attached to this repo
+For further information u can refer presentation link : https://www.canva.com/design/DAF4_M5qGVg/jFzV3C8dUwcYQ20C5NfuDA/edit?utm_content=DAF4_M5qGVg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
