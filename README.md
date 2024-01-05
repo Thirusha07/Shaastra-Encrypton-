@@ -17,3 +17,6 @@ Libraries used:
      sklearn.model_selection - GridSearchCV
      tkinter
      pandas
+
+
+For further information u can refer presentation link attached to this repo
